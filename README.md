@@ -1,16 +1,12 @@
 # Writing a Function in JavaScript
 
-<hr>
-
 ![](https://cdn.discordapp.com/attachments/1426246050355875872/1456125728100847709/photo-1587620962725-abab7fe55159_1.jpg?ex=69573a43&is=6955e8c3&hm=4005490586c3d3acd7789f29d54fe1bf89bbc360886dfc4332d8b4c2d6392c2a&)
 
 
 
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
- ### 1. Basic syntax
-
-<hr>
+ # 1. Basic syntax
 
 ```
 const functionName = (params) => {
