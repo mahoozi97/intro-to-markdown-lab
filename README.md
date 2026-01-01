@@ -21,7 +21,7 @@ const functionName = (params) => {
 * **The body**: The statements that make up the function itself. Surrounded by curly braces.
 
 Example:
-```
+```js
 const greet = (name) => {
   console.log("Hello, " + name + "!");
 }
