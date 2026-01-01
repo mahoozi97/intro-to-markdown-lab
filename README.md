@@ -10,6 +10,8 @@ In JavaScript, functions are blocks of reusable code. They allow you to bundle f
 
  ### 1. Basic syntax
 
+ <hr>
+
 ```
 const functionName = (params) => {
   // code to be executed
