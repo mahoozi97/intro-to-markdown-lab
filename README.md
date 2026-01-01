@@ -6,9 +6,9 @@
 
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
- # 1. Basic syntax
+ ### 1. Basic syntax
 
-```
+```js
 const functionName = (params) => {
   // code to be executed
 }
@@ -36,7 +36,7 @@ To execute the function, you call or invoke it by using its name followed by par
 
 Example:
 
-```
+```js
 greet('Alice'); // Outputs: Hello, Alice!
 ```
 
@@ -46,7 +46,7 @@ Functions can process data input and output a value using the return keyword.
 
 Example: 
 
-```
+```js
 const addNums = (numA, numB) => {
   return numA + numB
 }
