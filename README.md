@@ -1,5 +1,7 @@
 # Writing a Function in JavaScript
 
+<hr>
+
 ![](https://cdn.discordapp.com/attachments/1426246050355875872/1456125728100847709/photo-1587620962725-abab7fe55159_1.jpg?ex=69573a43&is=6955e8c3&hm=4005490586c3d3acd7789f29d54fe1bf89bbc360886dfc4332d8b4c2d6392c2a&)
 
 
